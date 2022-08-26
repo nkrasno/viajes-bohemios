@@ -15,3 +15,9 @@ We are starting over, and while we get settle, we are traveling around our new c
 We are taking photos, keeping in touch with our friends and family back home, and it would be nice if we could show them what we were up to last through a website.
 
 So, this is what my project will be about, hope you like it!
+
+### about the images used in this project
+
+The images corresponding to the guidalines are provided and copyrighted by The Odin Project, credit is them.
+
+The images shown on the landing page were taking by either my husband or me and thus own by us. If you want to use them please ask me first.
