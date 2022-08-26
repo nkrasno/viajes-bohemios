@@ -18,6 +18,6 @@ So, this is what my project will be about, hope you like it!
 
 ### about the images used in this project
 
-The images corresponding to the guidalines are provided and copyrighted by The Odin Project, credit is them.
+The images corresponding to the guidalines are provided and copyrighted by The Odin Project, credit is to them.
 
-The images shown on the landing page were taking by either my husband or me and thus own by us. If you want to use them please ask me first.
+The images shown on the landing page were photos taken by either my husband or me and thus own by us. If you want to use them please ask me first.
