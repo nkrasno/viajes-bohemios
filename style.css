@@ -127,14 +127,23 @@ h2 {
 
 .sign-in {
     align-items: center;
-    padding: 36px 100px 75px 200px;
-    margin: 0;
+    padding: 25px 50px;
+    margin: 36px 100px 75px 200px;
     gap: 16px;
+    background: #3882F6;
+    border: none;
+    border-radius: 16px;
+    color: #F9FAF8;
 }
 
 .know-us {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+}
+
+.know-us-p, h4 {
+    margin: 0;
 }
 
 .footer {
