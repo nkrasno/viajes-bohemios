@@ -21,3 +21,13 @@ So, this is what my project will be about, hope you like it!
 The images corresponding to the guidalines are provided and copyrighted by The Odin Project, credit is to them.
 
 The images shown on the landing page were photos taken by either my husband or me and thus own by us. If you want to use them please ask me first.
+
+## new update
+
+I opened the project the same afternoon I pushed the final changes and made a copy because I wanted to write the style from scratch, for practice. 
+
+The first time around I was excited to make my first landing page and that lead me to mistakes that could have been easily avoided. 
+
+This time around, feeling more calm and not so eager, I feel the style ended up being much better. I had to modify the index too to accomplish some of the results I was aiming to get. Unfortunately, because I was working on a copy, I made no commits.
+
+Still, the end result feels worth sharing, so here it is: [viajes-bohemios](https://nkrasno.github.io/viajes-bohemios/).
