@@ -126,7 +126,9 @@ h2 {
 }
 
 .sign-in {
+    width: 600px;
     align-items: center;
+    align-content: center;
     padding: 25px 50px;
     margin: 36px 100px 75px 200px;
     gap: 16px;
