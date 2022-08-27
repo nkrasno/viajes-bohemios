@@ -81,12 +81,28 @@ button {
     align-items: center;
 }
 
+.city {
+    max-width: 200px;
+    padding: 16px;
+    gap: 8px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
 .city-pic {
     border: 4px solid #3882F6;
-    border-radius: 8px;
+    border-radius: 16px;
     object-fit: cover;
     width: 200px;
     height: 200px;
+}
+
+.city-text{
+    text-align: center;
 }
 
 .footer {
