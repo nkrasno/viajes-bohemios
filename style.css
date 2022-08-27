@@ -60,6 +60,10 @@ h1 {
     margin: 0;
 }
 
+.hero-pic img {
+    width: 400px;
+}
+
 button a {
     text-decoration: none;
     color: #F9FAF8;
