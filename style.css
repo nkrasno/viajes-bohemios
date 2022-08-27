@@ -30,16 +30,15 @@ ul {
     flex-direction: column;
 }
 
-.main, .sign-in, .cities {
+.hero, .sign-in, .cities {
     display: flex;
     justify-content: center;
 }
 
-.main {
+.hero {
     padding: 75px 100px 75px 200px; 
     background: #1F2937;
     color: #F9FAF8;
-    display: flex;
 }
 
 h1 {
@@ -48,10 +47,21 @@ h1 {
     margin: 0;
 }
 
-.main-p {
+.hero-p {
     margin: 0;
 }
 
+.hero-text {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.hero-pic {
+    max-width:100%;
+}
 button {
     background: #3882F6;
     color: #F9FAF8;
@@ -65,18 +75,6 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.main-text {
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: space-between;
-}
-
-.main-pic {
-    max-width:100%;
 }
 
 .city-pic {
