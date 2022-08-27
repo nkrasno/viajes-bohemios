@@ -74,17 +74,21 @@ button {
     padding: 8px 16px;
 }
 
-.places, .quotes, .city {
+.places, .quotes {
+    padding: 36px 100px 75px 200px;     
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    align-content: center;
 }
 
 .city {
     max-width: 200px;
     padding: 16px;
     gap: 8px;
+    display: flex;
+    flex-direction: column;
 }
 
 h2 {
