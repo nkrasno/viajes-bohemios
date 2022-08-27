@@ -125,6 +125,18 @@ h2 {
     font-weight: 800;
 }
 
+.sign-in {
+    align-items: center;
+    padding: 36px 100px 75px 200px;
+    margin: 0;
+    gap: 16px;
+}
+
+.know-us {
+    display: flex;
+    flex-direction: column;
+}
+
 .footer {
     display: flex;
     justify-content: center;
