@@ -9,11 +9,11 @@ body {
 .header {
     background: #1F2937;
     color: #F9FAF8;
-    padding: 0 100px 0 200px; 
+    /* padding: 0 100px 0 200px; */
     font-size: 24px;
     font-weight: 800;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -33,13 +33,12 @@ ul {
 .hero, .sign-in, .cities {
     display: flex;
     justify-content: center;
-    align-items: center;
     align-content: center;
     flex-wrap: wrap;
 }
 
 .hero {
-    padding: 36px 100px 75px 200px;
+    padding: 36px 0 75px 0;
     background: #1F2937;
     color: #F9FAF8;
 }
@@ -50,16 +49,17 @@ h1 {
     margin: 0;
 }
 
-.hero-p {
-    margin: 0;
-}
-
 .hero-text {
+    padding: 36px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-around;
 }
+.hero-p {
+    margin: 0;
+}
+
 
 button {
     background: #3882F6;
@@ -71,13 +71,20 @@ button {
     margin: 8px 0;
 }
 
-.places, .quotes {
-    padding: 36px 100px 75px 200px;     
+.places, {
+    padding: 36px 0 75px 0;     
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+}
+
+.places, .quotes {
+    padding: 36px 0 75px 0;     
+    display: flex;
+    flex-direction: column;
     align-content: center;
+    flex-wrap: wrap;
 }
 
 .city {
@@ -89,6 +96,7 @@ button {
 }
 
 h2 {
+    align-self: center;
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
